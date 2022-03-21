@@ -2,6 +2,8 @@
 
 ### Aplicación cliente marvel api
 
+keliath.github.io
+
 </br>
 Para el desarrollo de este cliente se uso una configuracion enfocada a un proyecto medio-grande, se uso redux-toolkit para manejar los estados, cache, reducers.</br>
 Se uso material ui para la plantilla, react router v6 para manejar rutas, sass para modificar el theming de material ui.
